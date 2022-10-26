@@ -1,0 +1,8 @@
+.star-light:after {
+  content: "happy!" !important;
+}
+
+.star-dark:after {
+  content: "happy!" !important;
+}
+
